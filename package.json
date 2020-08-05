@@ -1,0 +1,17 @@
+{
+  "name": "lambda-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.722.0"
+  },
+  "devDependencies": {
+    "serverless-prune-plugin": "^1.4.3"
+  }
+}
